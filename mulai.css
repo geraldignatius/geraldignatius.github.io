@@ -1,0 +1,21 @@
+.utama{
+    display: grid;
+    background-color: tomato;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.utama .mulai{
+    background-color: aqua;
+}
+
+.utama .petunjuk{
+    background-color: blueviolet;
+}
+
+.utama h1 a{
+    text-decoration: none;
+    color: black;
+}

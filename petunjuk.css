@@ -1,0 +1,8 @@
+.utama{
+    display: grid;
+    background-color: tomato;
+    height: 100vh;
+    justify-content: center;
+    
+    align-content: center;
+}
